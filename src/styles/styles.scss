@@ -1,0 +1,13 @@
+@import "morestyles";
+
+
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #789987;
+$secondary-color: #123321;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background: $secondary-color;
+}
+
