@@ -2,7 +2,6 @@ var gulp        = require('gulp');
 var sass        = require('gulp-sass');
 var watch       = require('gulp-watch');
 var connect     = require('gulp-connect');
-var connectPHP  = require('gulp-connect-php');
 var opn         = require('opn');
 let cleanCSS    = require('gulp-clean-css');
 let sourcemaps  = require('gulp-sourcemaps');
